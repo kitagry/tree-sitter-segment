@@ -1,0 +1,25 @@
+[
+  {
+    "type": "source_file",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": false,
+      "types": [
+        {
+          "type": "word",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "_",
+    "named": false
+  },
+  {
+    "type": "word",
+    "named": true
+  }
+]
